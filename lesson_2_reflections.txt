@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 The git folder and files are created.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+I think it defines the files which should be version controlled.
