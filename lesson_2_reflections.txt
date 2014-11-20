@@ -3,3 +3,10 @@ The git folder and files are created.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 I think it defines the files which should be version controlled.
+
+How can you use the staging area to make sure you have one commit per logical change?
+For that, I only stage files which belong to that change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- fixing a bug while adding a feature
+- creating a special version
