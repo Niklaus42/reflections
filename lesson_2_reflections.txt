@@ -13,3 +13,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 They show the dependencies and the development over the time
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The resulting code contains the best of both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is much more efficient, the writer can concentrate on other things. On the other hand, there
+is a risk that the merge breaks functionality.
