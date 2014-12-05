@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+One reason is that I can share a remote repository with other developers. Another reason would be that I have not to 
+install my own backup process.
